@@ -1,12 +1,15 @@
-## Hi, I'm Crisna! 👋
-<hr>
+<div align="center">
 
-### I'm a Full Stack Web Developer Student!
-<br>
+<h1> Hi, I'm Crisna! 👋 </h1>
+
+<h3> I'm a Full Stack Web Developer Student! </h3>
+<hr>
 
 ![Crisna's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisnabto&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&hide_border=true&title_color=ef476f&icon_color=ef476f&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisnabto&layout=default&bg_color=0d1117&hide_border=true&title_color=ef476f)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
+    
 ### Languages and Technologies
 
 <div style="display: inline_block"><br/>
@@ -41,3 +44,5 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crisnabto@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisna-bezerra/)
+    
+</div>

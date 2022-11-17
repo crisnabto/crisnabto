@@ -3,7 +3,7 @@
 <h1> Hi, I'm Crisna! 👋 </h1>
 
 <h3> I'm a Full Stack Web Developer Student! </h3>
-<h4>- Lifelong learning is the key to success -<h4>
+<h4>_Lifelong learning is the key to success_<h4>
 <hr>
 
 ![Crisna's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisnabto&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&hide_border=true&title_color=ef476f&icon_color=ef476f&hide=issues)

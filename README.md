@@ -30,12 +30,12 @@
 
 ### Most used tools
 <div>
-    <img align="center" src="https://tinyurl.com/527jawcx" width="30px">
-    <img align="center" src="https://tinyurl.com/zfa6znmz" width="30px">
-    <img align="center" src="https://tinyurl.com/25f2d9ud" width="30px">
-    <img align="center" src="https://tinyurl.com/ycknwf3y" width="30px">
-    <img align="center" src="https://tinyurl.com/tbxcup3c" width="30px">
-    <img align="center" src="https://tinyurl.com/39dyhdx3" width="30px">
+    <img align="center" src="https://tinyurl.com/527jawcx" width="50px">
+    <img align="center" src="https://tinyurl.com/zfa6znmz" width="50px">
+    <img align="center" src="https://tinyurl.com/25f2d9ud" width="50px">
+    <img align="center" src="https://tinyurl.com/ycknwf3y" width="50px">
+    <img align="center" src="https://tinyurl.com/tbxcup3c" width="50px">
+    <img align="center" src="https://tinyurl.com/39dyhdx3" width="50px">
 </div>
 <br>
 <hr>

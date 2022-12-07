@@ -6,7 +6,7 @@
 <h4>_Lifelong learning is the key to success_<h4>
 <hr>
 
-![Crisna's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisnabto&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&hide_border=true&title_color=ef476f&icon_color=ef476f&hide=issues)
+![Crisna's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisnabto&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&hide_border=true&title_color=ef476f&icon_color=ef476f&hide=issues&card_width=200)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisnabto&layout=compact&bg_color=0d1117&hide_border=true&title_color=ef476f&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>

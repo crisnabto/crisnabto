@@ -2,7 +2,7 @@
 
 <h1> Hi, I'm Crisna! 👋 </h1>
 
-<h3> I'm a Full Stack Web Developer Student! </h3>
+<h3> I'm a Full Stack Web Developer! </h3>
 <h4>_Lifelong learning is the key to success_<h4>
 <hr>
 
